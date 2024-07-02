@@ -1,9 +1,9 @@
 {
-  "name": "vite-react-component-library-starter",
+  "name": "my-design-system",
   "private": true,
   "version": "0.0.0",
-  "description": "A template for creating React component libraries with Vite, Tailwind, and Storybook.",
-  "author": "rayyamhk",
+  "description": "A example component library for troubleshooting using React Aria Components",
+  "author": "kayewrobleski",
   "license": "MIT",
   "type": "module",
   "files": [
@@ -83,6 +83,7 @@
   },
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-aria-components": "^1.2.1"
   }
 }

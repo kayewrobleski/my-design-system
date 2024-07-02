@@ -24,12 +24,4 @@ export default defineConfig({
       external: ['react/jsx-runtime', ...Object.keys(peerDependencies)],
     },
   },
-  test: {
-    environment: 'jsdom',
-    setupFiles: './lib/test/setup.ts',
-    coverage: {
-      all: false,
-      enabled: true,
-    },
-  },
 });
