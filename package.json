@@ -1,5 +1,5 @@
 {
-  "name": "my-design-system",
+  "name": "@kayewrobleski/my-design-system",
   "private": true,
   "version": "0.0.0",
   "description": "A example component library for troubleshooting using React Aria Components",
