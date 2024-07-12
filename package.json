@@ -1,7 +1,7 @@
 {
   "name": "@kayewrobleski/my-design-system",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A example component library for troubleshooting using React Aria Components",
   "author": "kayewrobleski",
   "license": "MIT",
